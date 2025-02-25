@@ -11,3 +11,4 @@ This project fetches the weather forecast for Bhubaneswar and visualizes tempera
 
 ### Humidity Trend
 
+![Image](https://github.com/user-attachments/assets/09f3c576-c31d-4777-bf29-256c08c6ce37)
