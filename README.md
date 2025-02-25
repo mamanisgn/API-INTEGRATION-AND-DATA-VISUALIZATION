@@ -10,8 +10,9 @@ Duration: from February 15th, 2025 to March 30th, 2025
 
 Mentor: Neela Santhosh Kumar
 
-# API-INTEGRATION-AND-DATA-VISUALIZATION
-Project Description: Bhubaneswar Weather Forecast Visualization This project fetches 5-day weather forecast data for Bhubaneswar, Odisha using the OpenWeatherMap API and visualizes temperature and humidity trends using Matplotlib and Seaborn.
+# 🌦 Bhubaneswar Weather Forecast Visualization
+
+This project fetches real-time weather forecast data for Bhubaneswar, Odisha using the OpenWeatherMap API and visualizes temperature and humidity trends with Matplotlib and Seaborn. It helps analyze weather patterns over a 5-day period with clear and interactive graphs.
 
 ## Weather Forecast Visualization - Bhubaneswar
 
