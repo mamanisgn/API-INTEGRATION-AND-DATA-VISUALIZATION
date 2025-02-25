@@ -1,14 +1,20 @@
+Name: Sushree Gayatri Nayak
+Company: CODTECH IT SOLUTIONS
+ID: CT6WUHQ
+Domain: PYTHON PROGRAMMING
+Duration: from February 15th, 2025 to March 30th, 2025
+Mentor: Neela Santhosh Kumar
+
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 Project Description: Bhubaneswar Weather Forecast Visualization This project fetches 5-day weather forecast data for Bhubaneswar, Odisha using the OpenWeatherMap API and visualizes temperature and humidity trends using Matplotlib and Seaborn.
 
 ## Weather Forecast Visualization - Bhubaneswar
 
 This project fetches the weather forecast for Bhubaneswar and visualizes temperature and humidity trends.
+OUTPUT:-
 
 ### Temperature Trend
 ![Screenshot 2025-02-25 101646](https://github.com/user-attachments/assets/348d82e3-c76b-4580-8805-c6d479166c3e)
 
-
 ### Humidity Trend
-
 ![Image](https://github.com/user-attachments/assets/09f3c576-c31d-4777-bf29-256c08c6ce37)
