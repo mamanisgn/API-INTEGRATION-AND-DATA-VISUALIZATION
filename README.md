@@ -6,6 +6,7 @@ Project Description: Bhubaneswar Weather Forecast Visualization This project fet
 This project fetches the weather forecast for Bhubaneswar and visualizes temperature and humidity trends.
 
 ### Temperature Trend
+![Screenshot 2025-02-25 101646](https://github.com/user-attachments/assets/348d82e3-c76b-4580-8805-c6d479166c3e)
 
 
 ### Humidity Trend
